@@ -1,0 +1,11 @@
+/* aceasta stilizare se va aplica asupra tuturor elementelor de tip h1 din aplicatie */
+
+h1 {
+  color: purple;
+}
+
+/* pt a evita coliziunile putem folosi de ex */
+
+/* .users-page h1 {
+  color: purple;
+} */
